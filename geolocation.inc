@@ -3,7 +3,7 @@
 	GeoIP Include by Whitetiger
 	-> SQLite GeoIP Include
 	
-	Credits: Whitetiger, RaekwonDaChef, Y_Less, Andreas Gohr.
+	Credits: Whitetiger, RaekwonDaChef, Y_Less, Andreas Gohr, Kingston.
 	
 	MaxMind, GeoIP and related marks are registered trademarks of MaxMind, Inc.
 	
